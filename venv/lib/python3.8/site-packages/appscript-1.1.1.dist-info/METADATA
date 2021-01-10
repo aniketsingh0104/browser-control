@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: appscript
+Version: 1.1.1
+Summary: Control AppleScriptable applications from Python.
+Home-page: http://appscript.sourceforge.net
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: Public Domain
+Platform: Mac OS X
+Classifier: License :: Public Domain
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+
+UNKNOWN
+
+
